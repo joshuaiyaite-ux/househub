@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Jane Mwangi",
+    "comment": "HouseHub helped me find my dream home quickly and easily!",
+    "image": "/assets/pic6.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mark Otieno",
+    "comment": "Professional service and beautiful homes. Highly recommended!",
+    "image": "/assets/pic7.jpg"
+  }
+]
