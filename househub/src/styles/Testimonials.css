@@ -27,14 +27,14 @@
   align-items: center;
 }
 
-/* FIXED RESPONSIVE IMAGE */
+
 .testimonial-image {
   width: 120px;
   height: 120px;
   border-radius: 50%;
   object-fit: cover;
 
-  /* Makes image shrink responsively */
+
   max-width: 100%;
 }
 
@@ -53,7 +53,7 @@
   font-size: 1.1rem;
 }
 
-/* Tablet */
+
 @media (max-width: 900px) {
   .testimonials-grid {
     grid-template-columns: 1fr;
@@ -65,7 +65,7 @@
   }
 }
 
-/* Mobile */
+
 @media (max-width: 600px) {
   .testimonial-card {
     padding: 20px;
